@@ -17,7 +17,7 @@ margin: 40px;
         
 
 em strong {
-color: #CCCCCC;
+color: #cccccc;
 }
 
 p{
@@ -27,4 +27,9 @@ text-align: center;
 
 #mision{
 font-size: 20px;
+}
+
+.items{
+font-style: italic;
+
 }
