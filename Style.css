@@ -1,7 +1,21 @@
+body {
+background-color: grey ;
+}   
+    
+h1 {
+text-align: center;
+}             
+        
+
+em strong {
+color: #CCCCCC;
+}
+
 p{
 text-align: center;
 }
 
-h1 {
-text-align: center;
-}             
+
+#mision{
+font-size: 20px;
+}
