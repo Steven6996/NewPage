@@ -1,0 +1,59 @@
+#barner {
+
+    width: 100%;
+}
+
+.descripcion {
+    background-color: grey;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    height: 150px;
+    border: 10px solid #000000;
+    padding: 20px;
+    margin: 40px;
+}
+
+
+em strong {
+    color: greenyellow;
+}
+
+p {
+    text-align: center;
+}
+
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales {
+    background: #ffffff;
+    padding: 30px;
+}
+
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.items {
+    font-style: italic;
+
+}
+
+.imagendiferencial {
+    width: 40%;
+
+}
+
+.titulocentralizado {
+    text-align: center;
+}
