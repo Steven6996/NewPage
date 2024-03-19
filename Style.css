@@ -39,9 +39,7 @@ font-size: 20px;
     padding: 30px;
 }
 
-h2{
-    text-align: center;
-}
+
 
 ul{
     display: inline-block;
@@ -60,4 +58,6 @@ width: 40%;
 
 }
 
-
+.titulocentralizado{
+    text-align: center;
+}
